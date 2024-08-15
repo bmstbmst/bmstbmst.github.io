@@ -1,15 +1,7 @@
 ---
 layout: page
 title: welcome
-description: An optional about page for BlogBox Jekyll theme
+description: welcome page
 featured_image: aboutPage.jpg
 ---
-why not try out this generic quote?
-
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
-
-hopefully there is another image below this!
-
-{% include image_full.html imageurl="/images/posts/Mountain2.jpg" title="Mountain" caption="Norway is Beautiful" %}
-
-*Thank You for reading!*
+I'm a photographer from Melbourne, Australia. I got into photography through skateboarding when I was a teenager, have loved it ever since. I like street and portrait photography but I will try just about anything. These are a collection of some of my favourite pictures I've taken over the years.
