@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: BlogBox
+title: bmst
 
 # Below the site title
-tagline: Tales of a digital nomad.
+tagline: photographer | videographer
 
 # Site logo
 logo:
@@ -31,12 +31,10 @@ sass:
 navigation:
 - text: Home
   url: /
-- text: About
-  url: /about/
-- text: Style Guide
-  url: /style-guide/
-- text: Archives
-  url: /tags/
+- text: photo
+  url: /photo/
+- text: video
+  url: /video/
 
 # Author information - author info at the bottom of the post
 author_name: "John Doe"
