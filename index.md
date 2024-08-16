@@ -1,6 +1,6 @@
 ---
 layout: page
-title: welcome
+title: 
 description: welcome page
 featured_image: aboutPage.jpg
 ---
